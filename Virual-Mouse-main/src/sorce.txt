@@ -1,0 +1,13 @@
+pip3 install pyautogui
+
+python -m pip install comtypes
+
+pip install pycaw
+
+
+pip install screen-brightness-control
+
+
+
+
+
